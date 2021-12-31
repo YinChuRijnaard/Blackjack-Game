@@ -1,0 +1,46 @@
+body {
+    background-color: darkgreen;
+    border-style: solid;
+    border-width: 2.5px;
+    border-color: goldenrod;
+}
+
+h1 {
+    font-family: Verdana;
+    font-size: 4rem;
+    color: goldenrod;
+    text-align: center;
+    padding: 15px;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+#message-el {
+    font-style: italic;
+    font-weight: bold;
+}
+
+button {
+    font-family: Verdana;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 15px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    color: #016f32;
+    background-color: goldenrod;
+    width: 150px;
+    border-style: none;
+    margin-top: 50px;
+    border-radius: 2.5px;
+}
